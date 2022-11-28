@@ -1,0 +1,19 @@
+[
+    {
+        "name": "áo",
+        "slug": "123",
+        "public": true,
+        "product": [],
+        "unit": "đ",
+        "value": 100,
+        "limit": 60,
+        "quantity": 12,
+        "used": 0,
+        "start": 1659396060000,
+        "expired": 1662074460000,
+        "img": "https://salt.tikicdn.com/cache/128x128/ts/upload/92/ad/57/0d9a096885400b7b4752b67afdc72898.png",
+        "createdAt": 1660632240457,
+        "updatedAt": 1660632240457,
+        "id": "33ce902a-a14b-4d77-add2-c76806192f5e"
+    }
+]

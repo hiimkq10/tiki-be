@@ -1,0 +1,3376 @@
+[
+    {
+        "id": "4384",
+        "slug": "bach-hoa-online",
+        "name": "Bách Hóa Online",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 40.000",
+                    "value": "0,40000"
+                },
+                {
+                    "display_value": "Từ 40.000 đến 120.000",
+                    "value": "40000,120000"
+                },
+                {
+                    "display_value": "Từ 120.000 đến 400.000",
+                    "value": "120000,400000"
+                },
+                {
+                    "display_value": "Trên 400.000",
+                    "value": "400000,10000000000"
+                }
+            ]
+        },
+        "properties": []
+    },
+    {
+        "id": "1883",
+        "slug": "nha-cua-doi-song",
+        "name": "Nhà Cửa - Đời Sống",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 300.000",
+                    "value": "0,300000"
+                },
+                {
+                    "display_value": "Từ 300.000 đến 1.200.000",
+                    "value": "300000,1200000"
+                },
+                {
+                    "display_value": "Trên 1.200.000",
+                    "value": "1200000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "7a012a9eb9de45ec986ee45ba7d96c9d",
+                "name": "Kích thước",
+                "slug": "filter_ncds_kichthuoc_changa",
+                "values": [
+                    {
+                        "id": "080b47b3da50445f9032f2ee93332813",
+                        "value": "1m8"
+                    },
+                    {
+                        "id": "e5859fd8218346e384c333bc7d5f02d4",
+                        "value": "1m6"
+                    },
+                    {
+                        "id": "b80dc8f8ed534779a963fd2e9dc8f3e7",
+                        "value": "Khác"
+                    },
+                    {
+                        "id": "df4b794cc24e405fb16e19c813d674b1",
+                        "value": "1m2"
+                    },
+                    {
+                        "id": "302965c72531427f8ce00fc44dd6df3b",
+                        "value": "1m4"
+                    }
+                ]
+            },
+            {
+                "id": "07bc005b6c774f18a47091c4f8d4196f",
+                "name": "Phân loại",
+                "slug": "filter_ncds_phanloai_changa",
+                "values": [
+                    {
+                        "id": "099c8780b9174432a825a29b26edf4ae",
+                        "value": "Bộ chăn ga gối"
+                    },
+                    {
+                        "id": "8188af68fd744829bd146ed102d0abb8",
+                        "value": "Bộ ga gối"
+                    },
+                    {
+                        "id": "74ac28de6de84fad95cf0ddf4720f61e",
+                        "value": "Khác"
+                    },
+                    {
+                        "id": "90cc7bb02a944b17a9b7056ddd86ba71",
+                        "value": "Gối"
+                    },
+                    {
+                        "id": "090e7cef63aa43f5a486f0de23899e00",
+                        "value": "Chăn"
+                    },
+                    {
+                        "id": "054b7511bbb347bea26820c036cd486e",
+                        "value": "Mền"
+                    },
+                    {
+                        "id": "2d9a974bf6674c149b6e130faa862a1a",
+                        "value": "Ruột gối"
+                    },
+                    {
+                        "id": "c8fa5acf81dd484cad60d1585123273d",
+                        "value": "Ruột Chăn"
+                    }
+                ]
+            },
+            {
+                "id": "cc7791fca9ff427cb7e423f625d11d74",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "699642f19727455a8dfd00301de891a9",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "562d95701d5148eaa9f129c904b85784",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "47012bb3861b447fb2aa0695f4f11f1a",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "b364419678f447139a39d48b7c697490",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "849bde4c74c14b8ab2955af08c5f06a2",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "47f53d000bc44d83b042c9004268ef83",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "3e85daed243b45afb70b4194b7df3db8",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "8194857958fe4544a08b5b59eee0585e",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "c05db6de0fe046e8a19322a7c1eda2b4",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "6fdfe7aa8a824eb99be6f1da70a5d8b4",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "2cfffdeb02ef4549b630c0b3a64e4b99",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "c609171abce843dca98440bb4a1a7318",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "6b539043d0d4496eb298ee7e0128bc21",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "0bdfdb14bf5545a6ac50738342149cc0",
+                        "value": "Tím"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4221",
+        "slug": "dien-tu-dien-lanh",
+        "name": "Điện Tử - Điện Lạnh",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 6.000.000",
+                    "value": "0,6000000"
+                },
+                {
+                    "display_value": "Từ 6.000.000 đến 18.000.000",
+                    "value": "6000000,18000000"
+                },
+                {
+                    "display_value": "Trên 18.000.000",
+                    "value": "18000000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "27a116d683c849e0b7ad5179ffff2332",
+                "name": "Chọn Giờ Giao Lắp",
+                "slug": "is_scheduled_delivery_available",
+                "values": [
+                    {
+                        "id": "2e6814b2c73443c7ad12f3757cbd6938",
+                        "value": "Có"
+                    }
+                ]
+            },
+            {
+                "id": "1a2c43acec104f4c81fb6e2331d1ab88",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "7f25b6058f914a148c174a4bf92844ab",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "7df36ac208eb410e9a260291e3a33cf1",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "e786d79ffbf04541b602dc041bc3503a",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "dcbfd0727958428d843617066d27d2f7",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "c23edf56b38e401c93a2de77c1aa0b71",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "da3072c62d5d4bb799c8b2eec6f26d3e",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "06a1c08c25d34fdcaed2fc86b6759a84",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "47ed21eca96d4f93ba46b4d56d90206b",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "860e6b865145495e89d2d150b1ab7592",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "d6d32ff49367412a8a456a94c505dd1a",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "bb68ebe1136646dca23174247659b8db",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "3c453a5698f8473eb8670b5ce4bdf007",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "62670f3c02f14e2fb59c8f6b56ff4b3e",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "ad430536732542b594ade26f7fcacb30",
+                        "value": "Hồng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1789",
+        "slug": "dien-thoai-may-tinh-bang",
+        "name": "Điện Thoại - Máy Tính Bảng",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 2.000.000",
+                    "value": "0,2000000"
+                },
+                {
+                    "display_value": "Từ 2.000.000 đến 5.000.000",
+                    "value": "2000000,5000000"
+                },
+                {
+                    "display_value": "Từ 5.000.000 đến 19.000.000",
+                    "value": "5000000,19000000"
+                },
+                {
+                    "display_value": "Trên 19.000.000",
+                    "value": "19000000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "4e8ce0d26e9340f281719be792ddd0c1",
+                "name": "ROM",
+                "slug": "filter_mobile_rom",
+                "values": [
+                    {
+                        "id": "061fda98b9004d058670ca4ff000bc15",
+                        "value": "128GB"
+                    },
+                    {
+                        "id": "b6d477ff2ad64ffc9b1058bc7ccfff31",
+                        "value": "64GB"
+                    },
+                    {
+                        "id": "0cf71d9976f04a1791b78b19b08275c9",
+                        "value": "32GB"
+                    },
+                    {
+                        "id": "4b92bbcfc36f421eb57158ab6d0feae2",
+                        "value": "16GB"
+                    },
+                    {
+                        "id": "36db9b3c872f41f3b543288a1c6f6600",
+                        "value": "256GB"
+                    },
+                    {
+                        "id": "d9b6bb9f31f4441098a5e2b3841bc564",
+                        "value": "512GB"
+                    },
+                    {
+                        "id": "a8acaa20197a4984a095a4aee80b52f1",
+                        "value": "8GB"
+                    },
+                    {
+                        "id": "b9190456ad7645d0840d96e966a675fc",
+                        "value": "1TB"
+                    }
+                ]
+            },
+            {
+                "id": "5c105db7345b4e6a8bec5bf8731a66e8",
+                "name": "Camera sau",
+                "slug": "filter_mobile_camera_sau",
+                "values": [
+                    {
+                        "id": "7f3af76fb911442cbc658a9887629cdb",
+                        "value": "Trên 16MP"
+                    },
+                    {
+                        "id": "34tvQHXB7UayPdQkJh13ctW5xcPeLvm9YM",
+                        "value": "Từ 11MP đến 13MP"
+                    },
+                    {
+                        "id": "84d9f7cbfb304b0a81ba795b2a22efcf",
+                        "value": "Dưới 8MP"
+                    },
+                    {
+                        "id": "842e7d35be014d2cbc0d497371cfa025",
+                        "value": "Từ 14MP đến 16MP"
+                    },
+                    {
+                        "id": "0e1b80a116324fd3a1d8ca466c041486",
+                        "value": "Từ 8MP đến 10MP"
+                    }
+                ]
+            },
+            {
+                "id": "f572e750f13046a9b645b1419fc9adea",
+                "name": "Camera trước",
+                "slug": "filter_mobile_camera_truoc",
+                "values": [
+                    {
+                        "id": "496f0bb9e40042cf9625d1dd0b9cb061",
+                        "value": "Trên 12MP"
+                    },
+                    {
+                        "id": "1504161b0b17469db74a37f3df783026",
+                        "value": "Từ 8MP đến 12MP"
+                    },
+                    {
+                        "id": "f5c2e32e415d49c9a24fd24c7b9a059f",
+                        "value": "Từ 5MP đến 8MP"
+                    },
+                    {
+                        "id": "4954df1b27784d40a7b135c979fb566a",
+                        "value": "Dưới 8MP"
+                    }
+                ]
+            },
+            {
+                "id": "140c763be08146efb2617b2eaaca2fec",
+                "name": "RAM",
+                "slug": "filter_mobile_ram",
+                "values": [
+                    {
+                        "id": "650dc09c97a342ba8045f60749cdead2",
+                        "value": "4GB"
+                    },
+                    {
+                        "id": "2e92ec63df0f44eca39230f4bca7e328",
+                        "value": "8GB"
+                    },
+                    {
+                        "id": "022cf61274fe46bf980c59acfe395c95",
+                        "value": "3GB"
+                    },
+                    {
+                        "id": "eedd13ea0c1142bcb98237c59ed14857",
+                        "value": "6GB"
+                    },
+                    {
+                        "id": "fc19fac085fe483ba86f4dba9bdc80ff",
+                        "value": "1GB"
+                    },
+                    {
+                        "id": "f8f05c5b26824bc7acb299a11379acd7",
+                        "value": "2GB"
+                    },
+                    {
+                        "id": "60cd5ba59ba343ce84e91a36c3fcb911",
+                        "value": "12GB"
+                    },
+                    {
+                        "id": "7112ea6bd69043af9e643185f3ff69cf",
+                        "value": "1.5GB"
+                    },
+                    {
+                        "id": "7181e83926a94983a076761b226835de",
+                        "value": "512MB"
+                    }
+                ]
+            },
+            {
+                "id": "526e430f24e8459f9c5df5dbb62b11d6",
+                "name": "Kích thước màn hình",
+                "slug": "filter_mobile_man_hinh",
+                "values": [
+                    {
+                        "id": "d07e4b2091d7459ea945db4a1247f44a",
+                        "value": "Trên 5.5 inch"
+                    },
+                    {
+                        "id": "4f0d390f8ee8472794e166b593068970",
+                        "value": "Từ 5 inch đến 5.5 inch"
+                    },
+                    {
+                        "id": "8caf94956b854232a6864e9f885dbb93",
+                        "value": "Dưới 4.5 inch"
+                    }
+                ]
+            },
+            {
+                "id": "c11e58e2e43743298a06a05bf17b4f20",
+                "name": "Dung lượng Pin",
+                "slug": "filter_mobile_dungluong_pin",
+                "values": [
+                    {
+                        "id": "cc0c6e717be344159a6599dee2ba1f57",
+                        "value": "Từ 3.500 mAh đến 5.000 mAh"
+                    },
+                    {
+                        "id": "2a46672ac38a4697b3e7a6e92fd2d422",
+                        "value": "Từ 2.500 mAh đến 3.500 mAh"
+                    },
+                    {
+                        "id": "aa6f90ab17a0405a9f287b3b57a3fb0d",
+                        "value": "Trên 5.000 mAh"
+                    },
+                    {
+                        "id": "87a2fa50a7ba452fa0f1387a83391f64",
+                        "value": "Dưới 2.500 mAh"
+                    }
+                ]
+            },
+            {
+                "id": "0ecb0dbd626f4636bbaf65295808726a",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "741e0a1748fb404781924054a3b8ed46",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "7d128e616647404183f09089001565ec",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "050868f75f224fff9100c83b2193cb09",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "d37ac11fd1a84340be8aebcc7222ccb2",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "7ac5335817a34d978be21c05d1796067",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "fc4331e460f14384bf534c39d9720ae4",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "8a6e5ba0fba844d78d88ce776f655111",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "0b03cd44baf94e91b33b08142f57097a",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "255c0fe22dd844e8ba49be4960ad3ebb",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "2ce4b1b3d41843a09ea72449da643162",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "dcf44835b7eb4dc983bfcea1efc7a100",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "9b349617af1b4df0b6d52d6368631833",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "72ec057ceb9d4e80ac24772dc1d0e00f",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "f47c367b44c04fa58bbda98106332343",
+                        "value": "Kem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1795",
+        "slug": "dien-thoai-smartphone",
+        "name": "Điện thoại Smartphone",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 3.000.000",
+                    "value": "0,3000000"
+                },
+                {
+                    "display_value": "Từ 3.000.000 đến 6.000.000",
+                    "value": "3000000,6000000"
+                },
+                {
+                    "display_value": "Từ 6.000.000 đến 23.000.000",
+                    "value": "6000000,23000000"
+                },
+                {
+                    "display_value": "Trên 23.000.000",
+                    "value": "23000000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "24e95213fb4847cfb1006e43dbefe67a",
+                "name": "ROM",
+                "slug": "filter_mobile_rom",
+                "values": [
+                    {
+                        "id": "0969ac6978394be48bfa81bc23294aec",
+                        "value": "128GB"
+                    },
+                    {
+                        "id": "5708d916038d43b0908dba25235cfe79",
+                        "value": "64GB"
+                    },
+                    {
+                        "id": "951f55b2e1854ca5974deab6ddf8c015",
+                        "value": "32GB"
+                    },
+                    {
+                        "id": "34tvQHXB7UayPdQkJh13ctW5xcPeLvm9YM",
+                        "value": "16GB"
+                    },
+                    {
+                        "id": "6ab1e228ddd44a5aa874f3462a0b1daf",
+                        "value": "256GB"
+                    },
+                    {
+                        "id": "d6228bb43a4640e1ba645e5784c76733",
+                        "value": "512GB"
+                    },
+                    {
+                        "id": "89e5aa44d30f4aabba222166c98d9ee6",
+                        "value": "8GB"
+                    },
+                    {
+                        "id": "cf8a07555b1045d88d368b3805fe8d10",
+                        "value": "1TB"
+                    }
+                ]
+            },
+            {
+                "id": "84cbfaddcde241f081ef5d94d4003343",
+                "name": "Camera sau",
+                "slug": "filter_mobile_camera_sau",
+                "values": [
+                    {
+                        "id": "a96e588b0d1f4ea38b5f9829185b38bd",
+                        "value": "Trên 16MP"
+                    },
+                    {
+                        "id": "dbc999a57a2b448b8bf44c1f9c33dbaa",
+                        "value": "Từ 11MP đến 13MP"
+                    },
+                    {
+                        "id": "048ec0d7299846368327cd889b89ddbf",
+                        "value": "Dưới 8MP"
+                    },
+                    {
+                        "id": "b0f0d06cdcba48a8bf96a85a586eb358",
+                        "value": "Từ 14MP đến 16MP"
+                    }
+                ]
+            },
+            {
+                "id": "8b6e0b0fdb174c848fe8d6f4223a1238",
+                "name": "Camera trước",
+                "slug": "filter_mobile_camera_truoc",
+                "values": [
+                    {
+                        "id": "faa831bd28244a92be8e453bb78bf734",
+                        "value": "Trên 12MP"
+                    },
+                    {
+                        "id": "76d1f1dc2c3d427389bf40f7d9fd192a",
+                        "value": "Từ 8MP đến 12MP"
+                    },
+                    {
+                        "id": "9124c047720844829950d940f7968444",
+                        "value": "Từ 5MP đến 8MP"
+                    },
+                    {
+                        "id": "73d5ca053c1a40e3adfc5e3781c6e467",
+                        "value": "Dưới 8MP"
+                    }
+                ]
+            },
+            {
+                "id": "dd2a6915a1b249b0b21590fec58a21f9",
+                "name": "RAM",
+                "slug": "filter_mobile_ram",
+                "values": [
+                    {
+                        "id": "1ffdf01e7dfd45a2b4a2502f269c6e0f",
+                        "value": "4GB"
+                    },
+                    {
+                        "id": "c78d45ef513d4b91a43ba2925c724b6f",
+                        "value": "8GB"
+                    },
+                    {
+                        "id": "b19df467bd624c57a2dc7e2cf1461681",
+                        "value": "3GB"
+                    },
+                    {
+                        "id": "fae33b8feeb74a078a3722b419c6b9a2",
+                        "value": "6GB"
+                    },
+                    {
+                        "id": "3fc2721b227640a0948926388aac70a2",
+                        "value": "1GB"
+                    },
+                    {
+                        "id": "7a196c44ddb1416b812b9be10eb03b59",
+                        "value": "2GB"
+                    },
+                    {
+                        "id": "6faf71bbc3764da496579255d44befac",
+                        "value": "12GB"
+                    },
+                    {
+                        "id": "e36d27d498af4202ba5f4434bd7407f9",
+                        "value": "1.5GB"
+                    },
+                    {
+                        "id": "eb3819da10944dac85e741d30575c028",
+                        "value": "512MB"
+                    }
+                ]
+            },
+            {
+                "id": "cb4c86f6e9084b809164fbeed57889ef",
+                "name": "Kích thước màn hình",
+                "slug": "filter_mobile_man_hinh",
+                "values": [
+                    {
+                        "id": "203ac32f1659467d90131f6ec85ad893",
+                        "value": "Trên 5.5 inch"
+                    },
+                    {
+                        "id": "cf283a5b4d9f42ffb595aa947f2e80a0",
+                        "value": "Từ 5 inch đến 5.5 inch"
+                    },
+                    {
+                        "id": "e5abca4604c645ba9c7c89f398f9a133",
+                        "value": "Dưới 4.5 inch"
+                    }
+                ]
+            },
+            {
+                "id": "46c7e436cc2442f0aa446319c775d135",
+                "name": "Dung lượng Pin",
+                "slug": "filter_mobile_dungluong_pin",
+                "values": [
+                    {
+                        "id": "47421e36c7fe4960952d48a8a4e46bc8",
+                        "value": "Từ 3.500 mAh đến 5.000 mAh"
+                    },
+                    {
+                        "id": "2c362f0eb9c34923af5b3812d97e8e1b",
+                        "value": "Từ 2.500 mAh đến 3.500 mAh"
+                    },
+                    {
+                        "id": "f5d4fd72c85049248badeaa06db7a1aa",
+                        "value": "Trên 5.000 mAh"
+                    },
+                    {
+                        "id": "df32446030f94c18ae6b3271a259b64f",
+                        "value": "Dưới 2.500 mAh"
+                    }
+                ]
+            },
+            {
+                "id": "954011c606124a6fa72d803bd09cb0d7",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "6dca6e426d0247d8b1f66787a8a8b3bc",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "824da7fc4fe24e15ad4e81eb2be9fcbd",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "d1d021d6e2614192a28fdcefdfbf7aef",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "6b1df56cfe9d401d9646a8e9475d92a3",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "42b48c6c45dc4fd0a4fefce9907bbf08",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "9adc0cbaf22d4f4c83a4f61db558589d",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "dc4da289d39d447b85e6b2a5c7fec8f3",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "2fd11aae5a024d38b7fd9169a5746d9f",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "77305841ffa240f387bd2f0cbcb1a146",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "9665338e27d24763ae1922a233575e9a",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "f3d3bca6f2c84eb5b274e4960a2a1aeb",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "af8bdac182b34779aa836cc2b6b073ba",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "27bd354acfcc456387916a026ac2a262",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "7cf33e4567354f4aa7dcffdd92e27159",
+                        "value": "Kem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1815",
+        "slug": "thiet-bi-kts-phu-kien-so",
+        "name": "Thiết Bị Số - Phụ Kiện Số",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 50.000",
+                    "value": "0,50000"
+                },
+                {
+                    "display_value": "Từ 50.000 đến 80.000",
+                    "value": "50000,80000"
+                },
+                {
+                    "display_value": "Từ 80.000 đến 210.000",
+                    "value": "80000,210000"
+                },
+                {
+                    "display_value": "Trên 210.000",
+                    "value": "210000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "b527f02d76f44da391310e94b4a43fa1",
+                "name": "Xuất xứ thương hiệu",
+                "slug": "brand_country",
+                "values": [
+                    {
+                        "id": "632955cd34f54edfb16e19e6d5eb833e",
+                        "value": "Trung Quốc"
+                    },
+                    {
+                        "id": "25801a8ed7d24bfb8a94ec0753b12e37",
+                        "value": "Việt Nam"
+                    },
+                    {
+                        "id": "d2b1e0e78d4c457aa98f32e42b094cc0",
+                        "value": "Hong Kong"
+                    },
+                    {
+                        "id": "49b2e786be464fd09159253f2c37f8bd",
+                        "value": "Mỹ"
+                    },
+                    {
+                        "id": "27f3dc5501f84f4ba952f77735623ea8",
+                        "value": "China"
+                    },
+                    {
+                        "id": "156fcde1b5a949adae77900ec36d231c",
+                        "value": "Nhật Bản"
+                    },
+                    {
+                        "id": "81c870cdcdd24aef9557151ffe2fed1a",
+                        "value": "Hàn Quốc"
+                    },
+                    {
+                        "id": "2e2ca4341818452bab758de67d392a02",
+                        "value": "Đài Loan"
+                    },
+                    {
+                        "id": "42bd9785c4fc40f5ab31607ef10d7310",
+                        "value": "Singapore"
+                    },
+                    {
+                        "id": "0a7af6c060f746299c6d9519b164b008",
+                        "value": "Đức"
+                    },
+                    {
+                        "id": "ad50ce467f9f4f9191d524266abfb27f",
+                        "value": "USA"
+                    },
+                    {
+                        "id": "a9eacb1d7ad94d3fae1edffc9fc7b83b",
+                        "value": "Việt Nam/Trung Quốc/Thái Lan/Indonesia…"
+                    },
+                    {
+                        "id": "4a9be3ac1d8349be899bbf257b0106c3",
+                        "value": "Thụy Sỹ"
+                    },
+                    {
+                        "id": "8b592a851d1a41e08f9862778cea8a64",
+                        "value": "Anh"
+                    },
+                    {
+                        "id": "cbd70e4c0279447288be1a450b582463",
+                        "value": "Indonesia"
+                    },
+                    {
+                        "id": "1fd44dea0a004102999b80134e241ddb",
+                        "value": "524749"
+                    },
+                    {
+                        "id": "e49ec4f2c2ad443f8f4d131a81961f06",
+                        "value": "Pháp"
+                    },
+                    {
+                        "id": "e225412168bb4c36972ec9e81fae7eb8",
+                        "value": "Đan Mạch"
+                    },
+                    {
+                        "id": "e046372e599d48a39db792d6fed63054",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "Canada"
+                    },
+                    {
+                        "id": "fed72bdaa6114f43b7427db74e2d4460",
+                        "value": "Hà Lan"
+                    },
+                    {
+                        "id": "97a1349c03f049a79331050e9084add6",
+                        "value": "Japan"
+                    },
+                    {
+                        "id": "9400de67c5614380b4bdc3f54e4d3b23",
+                        "value": "Hàn Quốc / Trung Quốc"
+                    },
+                    {
+                        "id": "6b1ee1ba561f4dd4b244e39c96000d59",
+                        "value": "Việt Nam / Đài Loan"
+                    },
+                    {
+                        "id": "d7244c42d4ef4e6da0a00cad789029fd",
+                        "value": "Taiwan"
+                    },
+                    {
+                        "id": "be93829e488049eebbb6b8f786dc232e",
+                        "value": "Ấn Độ + Việt Nam"
+                    },
+                    {
+                        "id": "11b0da4de91a4e7fa51d0efddaf92a67",
+                        "value": "Australia"
+                    },
+                    {
+                        "id": "054e1ee41a5b4f368c81c8cc61a68bbf",
+                        "value": "Thái Lan"
+                    },
+                    {
+                        "id": "622f06a765594f54855827757dacb746",
+                        "value": "Thụy Điển"
+                    },
+                    {
+                        "id": "9b767308cf6f487d8866b2f5ac64ad13",
+                        "value": "Germany"
+                    }
+                ]
+            },
+            {
+                "id": "f44c883c19e64b8fbe790fce548ef4ee",
+                "name": "Thiết bị phù hợp",
+                "slug": "device_compatibility",
+                "values": [
+                    {
+                        "id": "2f82a731101c42e3af0bd70554d0e92e",
+                        "value": "Oppo"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "Samsung"
+                    },
+                    {
+                        "id": "3a67ee28082e4a999b69ddebbe0c26f3",
+                        "value": "Xiaomi"
+                    },
+                    {
+                        "id": "4d67b780287642f792528cafc2d9884f",
+                        "value": "Vivo Y20"
+                    },
+                    {
+                        "id": "bcd2f24cc78a44d3a26acaa9d4add744",
+                        "value": "Samsung Galaxy"
+                    },
+                    {
+                        "id": "658f9f19cba245649236d64b2c9e5967",
+                        "value": "Realme 5"
+                    },
+                    {
+                        "id": "913d0f99888b4dc0ae6b65ab0bfac6a3",
+                        "value": "Oppo A15"
+                    },
+                    {
+                        "id": "6231e8b1177349369a3218e250805fe2",
+                        "value": "Huawei"
+                    },
+                    {
+                        "id": "c4d040da46bd4fad840841d1f33690de",
+                        "value": "Realme 3"
+                    },
+                    {
+                        "id": "e73fbc2679204930b7a3cdb0c770a822",
+                        "value": "iPhone"
+                    },
+                    {
+                        "id": "10c812f631964549af2b549681073e6b",
+                        "value": "Đang cập nhật"
+                    },
+                    {
+                        "id": "7c4aa87e9f654c46a5fdff20fd281f0c",
+                        "value": "Nokia 5"
+                    },
+                    {
+                        "id": "6aa346f22e3d4c4cbd234e9d791e822c",
+                        "value": "iPhone XS MAX"
+                    },
+                    {
+                        "id": "16ef301c67b245d4b9221676a3029092",
+                        "value": "Vivo Y15"
+                    },
+                    {
+                        "id": "4b3ed88a9a8345bbaaae666655fc3ec9",
+                        "value": "OPPO RENO 5"
+                    },
+                    {
+                        "id": "243d2b34e3e544c89bbc96547105cd61",
+                        "value": "Xiaomi 3"
+                    },
+                    {
+                        "id": "ab6baf5d70e849a5bfa5b7f56b4321b6",
+                        "value": "Oppo A7"
+                    },
+                    {
+                        "id": "624042e1ee764f908a1beed53d27be7d",
+                        "value": "iPhone X"
+                    },
+                    {
+                        "id": "39e925045f924a72aa50093b7940628d",
+                        "value": "Samsung Galaxy A20"
+                    },
+                    {
+                        "id": "915f142c8b5e4ea788e8acf42dbfe014",
+                        "value": "iPhone 7 Plus"
+                    },
+                    {
+                        "id": "7c110cb4203d4ddc9e5d9fdfe88172a4",
+                        "value": "Samsung Galaxy M51"
+                    },
+                    {
+                        "id": "44e4faec7c664e06b9327a44f7ae97f7",
+                        "value": "Realme C1"
+                    },
+                    {
+                        "id": "2c33141a27c340e8a511c75610fa1f31",
+                        "value": "Samsung Galaxy M40S"
+                    },
+                    {
+                        "id": "83b61153e02a49559bd4a465c7b31d10",
+                        "value": "iPhone 7"
+                    },
+                    {
+                        "id": "1f572bef151e4536b7610f93a1b4e785",
+                        "value": "iPhone Xs"
+                    },
+                    {
+                        "id": "88aa7843a8ce43ea89cc9f44cb0be985",
+                        "value": "iPhone 13"
+                    },
+                    {
+                        "id": "eb3d36169d98485eb998517f7c1f6a00",
+                        "value": "iPhone 8 Plus"
+                    },
+                    {
+                        "id": "617882371c2e4c93a8587b5cd88501dd",
+                        "value": "Realme 7"
+                    },
+                    {
+                        "id": "2c2ccc89a19842158f69b09d164b1b6d",
+                        "value": "Samsung Galaxy Note 9"
+                    },
+                    {
+                        "id": "31e3d5c39e764781831b70a7a6df26db",
+                        "value": "Xiaomi Redmi K20 Pro"
+                    }
+                ]
+            },
+            {
+                "id": "d28b9abff3a547fda2da9d307ab3539b",
+                "name": "Chất liệu sản phẩm",
+                "slug": "product_type_bumper",
+                "values": [
+                    {
+                        "id": "9022dc93d0f946e4a3f4bf2d04441ddf",
+                        "value": "Nhựa dẻo"
+                    },
+                    {
+                        "id": "020547e24b3b4c6bbf9ec0cb24dfe6ab",
+                        "value": "Nhựa cứng"
+                    },
+                    {
+                        "id": "630cac0b59454897959bd1643a9267fc",
+                        "value": "Bao da"
+                    },
+                    {
+                        "id": "9560693c2aad416eaba15ffb23b8a0c7",
+                        "value": "Kim loại"
+                    }
+                ]
+            },
+            {
+                "id": "c43850c4c4c44575939ca86e855dd49d",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "a769663ed15a4eadbcde5892747fca8e",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "366dd2b11b124e52860ad1f481ed5587",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "a604c4674c7141e8b1f7244dc2590f59",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "0d4daef5b48d49d6891d2f26cca7ae35",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "338601be39a14957b11b1951c868ca2b",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "6a87cd79e1c64deea13da5c1e06c7cf2",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "b520e8b8f9704c4c95c4f1f74a504f02",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "d5730fe9556849659b266aa5ecf013f9",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "65bb977f4f8a45e7b4f598162cf1017b",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "e358020a6f104cb3908b37704e7be483",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "f353ce2a62fb43e7bc804294bcaf8fac",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "5db7c9cf290a41e097c0b8aa8b2b12c7",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "8326ddfed45c4a59ae22b084dfea163f",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "b8796972dcff4d1a8f823ddae185116f",
+                        "value": "Kem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2549",
+        "slug": "do-choi-me-be",
+        "name": "Đồ Chơi - Mẹ & Bé",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 60.000",
+                    "value": "0,60000"
+                },
+                {
+                    "display_value": "Từ 60.000 đến 140.000",
+                    "value": "60000,140000"
+                },
+                {
+                    "display_value": "Từ 140.000 đến 320.000",
+                    "value": "140000,320000"
+                },
+                {
+                    "display_value": "Trên 320.000",
+                    "value": "320000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                "name": "Độ tuổi",
+                "slug": "age_range_kid",
+                "values": [
+                    {
+                        "id": "e5a3d84dabef4b69ad5ce5e9600e45a1",
+                        "value": "2 - 4 tuổi"
+                    },
+                    {
+                        "id": "e44bf5ab5b584809819a1a0be8798e91",
+                        "value": "4 - 6 tuổi"
+                    },
+                    {
+                        "id": "76ff696ef9194d6e886fa3cb6b8f2df7",
+                        "value": "6 - 8 tuổi"
+                    },
+                    {
+                        "id": "fa334e2bf57f4ea5a679dcafb0532d5c",
+                        "value": "Dưới 2 tuổi"
+                    },
+                    {
+                        "id": "2edf2004df59408fb6d394765ad47206",
+                        "value": "8 - 10 tuổi"
+                    },
+                    {
+                        "id": "e600e76ba96b4a28976340114427940b",
+                        "value": "10 - 12 tuổi"
+                    },
+                    {
+                        "id": "8c9547265c8a48bfb67118d37e0f920a",
+                        "value": "12 - 14 tuổi"
+                    },
+                    {
+                        "id": "ac8e3781c0384f8d843c7d1f2049e557",
+                        "value": "14 - 16 tuổi"
+                    }
+                ]
+            },
+            {
+                "id": "6c349227d8f54424bb74f17da819d9e2",
+                "name": "Họa tiết",
+                "slug": "fashion_pattern",
+                "values": [
+                    {
+                        "id": "1ee83fc463204eb3b61873c52917ec9a",
+                        "value": "Trơn"
+                    },
+                    {
+                        "id": "819893d8f86f40e0846be16e74ea4181",
+                        "value": "Hoa lá"
+                    },
+                    {
+                        "id": "a021189b5eb64b55a7b92b0dbe69a59c",
+                        "value": "Hình học"
+                    },
+                    {
+                        "id": "2d039ea1e0a44ede8131e24d54132e3d",
+                        "value": "Kẻ sọc"
+                    },
+                    {
+                        "id": "770023648bbc4b35abaa5844dc2038b3",
+                        "value": "Chấm bi"
+                    },
+                    {
+                        "id": "ed0ca9a75f264b6f9edd9df7bef076f6",
+                        "value": "Caro"
+                    }
+                ]
+            },
+            {
+                "id": "4ea552fa3b8c4b4dbbd2c0f5917e1eb0",
+                "name": "Chất liệu",
+                "slug": "cloth_material",
+                "values": [
+                    {
+                        "id": "db142b3420554a1f82ac84715c40feab",
+                        "value": "Cotton"
+                    },
+                    {
+                        "id": "5bf488218b594d4aad424b9d8a359aaf",
+                        "value": "Thô"
+                    },
+                    {
+                        "id": "e0e18161321f4fc2ac03f4f0b1966770",
+                        "value": "Lụa"
+                    },
+                    {
+                        "id": "7927b70fb20d4a598ae911f8d134af9f",
+                        "value": "Kate"
+                    },
+                    {
+                        "id": "fea1dda3923742d4a9197298e637692f",
+                        "value": "Đũi"
+                    },
+                    {
+                        "id": "bf99bbd240584d33a06953f1bebbc1e3",
+                        "value": "Voan"
+                    },
+                    {
+                        "id": "0221bd84da154553852a54746b30cb4d",
+                        "value": "Nỉ"
+                    },
+                    {
+                        "id": "92307d3f651349d69fb9d70b1ae65a4a",
+                        "value": "Lanh"
+                    },
+                    {
+                        "id": "bdd1732ae88b4732b0e0f0aafb956431",
+                        "value": "Ren"
+                    },
+                    {
+                        "id": "cdb3ffb0a1ed4d70a3392909fc0ced92",
+                        "value": "Len"
+                    },
+                    {
+                        "id": "4ceb86b7c11d4a1d87ea49b599a91070",
+                        "value": "Jeans"
+                    },
+                    {
+                        "id": "8d6332af07bd46aebf0b7b8238c9e1ba",
+                        "value": "Spandex"
+                    },
+                    {
+                        "id": "02e33f8c81944ccb89efa0d96dfc4ea9",
+                        "value": "Polyester (PE)"
+                    },
+                    {
+                        "id": "d5fe6fd61cf14ea799bd257859f4454a",
+                        "value": "Kaki"
+                    },
+                    {
+                        "id": "a3795b6d9c73457e82dc99a6dca8742b",
+                        "value": "Viscose"
+                    },
+                    {
+                        "id": "9eaf39fd49714d17bed697b40d69dc8a",
+                        "value": "Bamboo"
+                    },
+                    {
+                        "id": "2bf681d7533c427695e4467cdaf1ee27",
+                        "value": "Tuyết mưa"
+                    },
+                    {
+                        "id": "4af8f575c2ee4aae9c07ec5f387dec53",
+                        "value": "Model"
+                    },
+                    {
+                        "id": "b29c3fcb04d6402e975352d6842de2d5",
+                        "value": "Tencel"
+                    },
+                    {
+                        "id": "5473c2baa4fa442b9bf4334696155502",
+                        "value": "Jacquard"
+                    },
+                    {
+                        "id": "460e6a7a6a694e5b959f643362fe8f0e",
+                        "value": "Canvas"
+                    },
+                    {
+                        "id": "61f20e3c89f64571b1c43429c95a9591",
+                        "value": "Lynon"
+                    }
+                ]
+            },
+            {
+                "id": "47f54eb0fa0244598d33479a0a06450e",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "7b371e16ed8d44e0851a159f626850b8",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "29eaf0a5f4e3447793c13746e5c4a2b0",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "974c486c960d4c33a1a2e1eb9dc9632d",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "08e542bc9b6b4aaf8279a2a64517da82",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "db067094ec4a4121be7343178da85439",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "c28f289cecab40d2be9ab66db833a456",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "fdbb418fdcea4954bdf49176fe954003",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "7447b6f7be0d45b5b3bff806c6e664b9",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "fb848817263f4d71904e2ae2722f581c",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "e7f79d82bb61448292bf3fda1a9c04e9",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "81f40249396941a38f6be6cf676fc59f",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "c16b87790bb14f6480b728d3e9b53f2b",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "0637f5fff3ab4634bf133c04d52a65e0",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "162856adaa25470ea9e193f753b62266",
+                        "value": "Bạc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1520",
+        "slug": "lam-dep-suc-khoe",
+        "name": "Làm Đẹp - Sức Khỏe",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 200.000",
+                    "value": "0,200000"
+                },
+                {
+                    "display_value": "Từ 200.000 đến 750.000",
+                    "value": "200000,750000"
+                },
+                {
+                    "display_value": "Trên 750.000",
+                    "value": "750000,10000000000"
+                }
+            ]
+        },
+        "properties": []
+    },
+    {
+        "id": "1882",
+        "slug": "dien-gia-dung",
+        "name": "Điện Gia Dụng",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 1.000.000",
+                    "value": "0,1000000"
+                },
+                {
+                    "display_value": "Từ 1.000.000 đến 6.000.000",
+                    "value": "1000000,6000000"
+                },
+                {
+                    "display_value": "Trên 6.000.000",
+                    "value": "6000000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "42b95d6a511b460e83689fd2d9198690",
+                "name": "Chọn Giờ Giao Lắp",
+                "slug": "is_scheduled_delivery_available",
+                "values": [
+                    {
+                        "id": "9a932965eed04a5c95d0bba792a8b345",
+                        "value": "Có"
+                    }
+                ]
+            },
+            {
+                "id": "7aa9cf635e1e42278098b998d294580f",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "89ae31ef45814da083434d12daafaf68",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "c62a40b4b8e8440497cb6b16b8036fbc",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "ad0465f7fabf480a8afe2a6b07541efe",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "51a6b1c151bc4fa693012f807021595c",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "bce68d1c26404c5f8ce8382e3eb9d5ca",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "92227e5d31ee49d9957f16b68eb0eda7",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "b38c94c37d214c06b590d99d64dd1927",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "c71cd5725104486cbe08afe258fbc2ec",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "54041523ed7744fa86273e4cfb75b35b",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "d6b1dc54306b46cc9df209a9552d5dd3",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "3340577ab7394b4eada417fd625effc2",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "8fdcbc105846464eb22c4e46bf9a8323",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "503522b375984dabb43955e1bd08783a",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "538726f92f464d99984dea058d844986",
+                        "value": "Cam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "913",
+        "slug": "thoi-trang-nu",
+        "name": "Thời trang nữ",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": []
+        },
+        "properties": []
+    },
+    {
+        "id": "1703",
+        "slug": "giay-dep-nu",
+        "name": "Giày - Dép nữ",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 100.000",
+                    "value": "0,100000"
+                },
+                {
+                    "display_value": "Từ 100.000 đến 220.000",
+                    "value": "100000,220000"
+                },
+                {
+                    "display_value": "Từ 220.000 đến 460.000",
+                    "value": "220000,460000"
+                },
+                {
+                    "display_value": "Trên 460.000",
+                    "value": "460000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "f00273d7cb9d490e848dab635f07bc98",
+                "name": "Họa tiết",
+                "slug": "fashion_pattern",
+                "values": [
+                    {
+                        "id": "4a70dd53b73d4e1ca5417634287e8ed3",
+                        "value": "Trơn"
+                    },
+                    {
+                        "id": "1d21a7f729e342508830399a1a92fa06",
+                        "value": "Hình học"
+                    },
+                    {
+                        "id": "3af10c55fe5a49f8928d1c051dc5861f",
+                        "value": "Chấm bi"
+                    },
+                    {
+                        "id": "d6eb6184507f4cddab041aa6899e4b60",
+                        "value": "Hoa lá"
+                    },
+                    {
+                        "id": "3493b4c1609b44b8b97b7bfd082d9681",
+                        "value": "Kẻ sọc"
+                    },
+                    {
+                        "id": "15e8696273fa462584b13db5c8d3d04f",
+                        "value": "Caro"
+                    }
+                ]
+            },
+            {
+                "id": "4a12a0737c954c66bde4845d9434e5f7",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "0df2bdafb0c3400eb22ea3de250e0878",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "14ee493f448c4cf49c3f743662aa407b",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "1976c09b68f1418ea010cc7caffcaaab",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "8474fe8628274d86b98b14a10382b705",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "68f770fb464f44b782e55f3fb516d7b4",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "06d481d284524fe58464e43f9ecbae87",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "f9e98c36a33843ac9ce102acacc80d3e",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "0cc9815c645941d88791427cba21fc1e",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "5d9b7d7f80e74be09b1148ec140469cf",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "c89f99fdb7eb46e3803424ce53b3c4df",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "e1f92309f5594220a3f0c0bf232f7fc7",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "ff5b2d35f18d4a56b274ecd4f029f919",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "db6b846ff0384fd781613fe9348153a3",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "09f130e820064ec6962614f2341d3720",
+                        "value": "Tím"
+                    }
+                ]
+            },
+            {
+                "id": "9c698598ed71475c945df9f811cdbd55",
+                "name": "Kích cỡ",
+                "slug": "option_size_shoes",
+                "values": [
+                    {
+                        "id": "2c4f22235982489693bc28ee203aea79",
+                        "value": "36"
+                    },
+                    {
+                        "id": "921cc245b5c74f9faca9a3ed47e80034",
+                        "value": "38"
+                    },
+                    {
+                        "id": "653633e3088f46469d42290dad6bca7b",
+                        "value": "37"
+                    },
+                    {
+                        "id": "7cf58983111b411c9df4e0e5e1ffc57f",
+                        "value": "39"
+                    },
+                    {
+                        "id": "414030253bd74ee08e2f320fb92e63cf",
+                        "value": "35"
+                    },
+                    {
+                        "id": "20efd73893404235a869c2a97536f4e9",
+                        "value": "40"
+                    },
+                    {
+                        "id": "adc5cb5cdb0a49359dd8f941bb61cd65",
+                        "value": "41"
+                    },
+                    {
+                        "id": "8b855ee41d5d4f879b5f7025f93d1200",
+                        "value": "42"
+                    },
+                    {
+                        "id": "94e1c729760841eb8781f8337334d840",
+                        "value": "43"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "34"
+                    },
+                    {
+                        "id": "0c57f8b065fd494283276224200982eb",
+                        "value": "33"
+                    },
+                    {
+                        "id": "1ceae254dca0477086ec10d39489dbaf",
+                        "value": "44"
+                    },
+                    {
+                        "id": "ff77ac605d7145099a355ac4662792c9",
+                        "value": "32"
+                    },
+                    {
+                        "id": "4ba52e99185d4257ba83eb5b77ec3aae",
+                        "value": "31"
+                    },
+                    {
+                        "id": "d475a25859ad4880a2fddce7babfeb88",
+                        "value": "30"
+                    },
+                    {
+                        "id": "91869454545844e1bdec22c2afb5938a",
+                        "value": "28"
+                    },
+                    {
+                        "id": "46b13e3f13384be39ec3141d121ce5fb",
+                        "value": "27"
+                    },
+                    {
+                        "id": "c5887641ef144ff4a68cdc789b8136b6",
+                        "value": "29"
+                    },
+                    {
+                        "id": "d76f6085e606418fbf5e503a1298c980",
+                        "value": "45"
+                    },
+                    {
+                        "id": "746e373c10eb4de8a7c5ca2fbbb52e01",
+                        "value": "46"
+                    },
+                    {
+                        "id": "3406f084c1e1471ea481e5ea11988d1b",
+                        "value": "49"
+                    },
+                    {
+                        "id": "73a09c7118cc401396320a5e8a72b753",
+                        "value": "47"
+                    },
+                    {
+                        "id": "8b56c009f5ab4d3995f45ca8cdb9e5bb",
+                        "value": "48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "976",
+        "slug": "tui-vi-nu",
+        "name": "Túi - Ví nữ",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 60.000",
+                    "value": "0,60000"
+                },
+                {
+                    "display_value": "Từ 60.000 đến 140.000",
+                    "value": "60000,140000"
+                },
+                {
+                    "display_value": "Từ 140.000 đến 460.000",
+                    "value": "140000,460000"
+                },
+                {
+                    "display_value": "Trên 460.000",
+                    "value": "460000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "d6aee342f36c46b880cc10adef509693",
+                "name": "Chất liệu",
+                "slug": "bag_material",
+                "values": [
+                    {
+                        "id": "cf5f21f8d9cc4d9080f92e57725c0d89",
+                        "value": "Da nhân tạo"
+                    },
+                    {
+                        "id": "d98269036c804b3698429f37eb8db884",
+                        "value": "Vải"
+                    },
+                    {
+                        "id": "67dfe47081b540998c8bc2a39ee2a399",
+                        "value": "Da tự nhiên"
+                    },
+                    {
+                        "id": "25da508f4e3946afb4591c0291069f2f",
+                        "value": "Vải bố (canvas)"
+                    },
+                    {
+                        "id": "9713247f441548ff95196af1878b7007",
+                        "value": "Vải sợi polyester"
+                    },
+                    {
+                        "id": "47fe4644e9aa40f1b87468211fa0d609",
+                        "value": "Vải dù"
+                    },
+                    {
+                        "id": "38c1cb41a20c4b579686235967828364",
+                        "value": "Vải nỉ"
+                    }
+                ]
+            },
+            {
+                "id": "fbb6a4b451b448238850afd0b35b0748",
+                "name": "Họa tiết",
+                "slug": "fashion_pattern",
+                "values": [
+                    {
+                        "id": "267fab7ca080469abcc7cfad04049b36",
+                        "value": "Trơn"
+                    },
+                    {
+                        "id": "4184d57225a848159a14fab1f6b2d099",
+                        "value": "Hình học"
+                    },
+                    {
+                        "id": "aa8bc37050ad4823a7edf63673217e5b",
+                        "value": "Hoa lá"
+                    },
+                    {
+                        "id": "7058c807988f415aa5681f7faeddea40",
+                        "value": "Caro"
+                    },
+                    {
+                        "id": "971e88b114fd4fdead47e725d0dfd0ae",
+                        "value": "Kẻ sọc"
+                    },
+                    {
+                        "id": "9348c6ce32154d83ae0c3c417fb80ab0",
+                        "value": "Chấm bi"
+                    }
+                ]
+            },
+            {
+                "id": "30aee59a464f467a80684a9aa6acce6e",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "ceb6dfc0db204b0fae1592d2f13532ee",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "4919117a1db64c85824ee6ac1521965d",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "966f5dbd466c4346bdef4491ba9fe5fc",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "b9c940ea79dd4dc39017434d5ae2e9f6",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "d564823343c14e26a1f24b30cfd0f601",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "8cc2a226d1524d2891cbcb4d5ebf0c48",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "158393f93bca41d288be383011f155a5",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "af8f0e853327480a94ab8545c41f2c7a",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "75e6cfc3b51943d78f8bef20d60ea5ab",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "e901345d93cc4843b03af8344bb09c8d",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "aed50db1185046c7a2dfdb86eb003fbd",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "671397da34aa4abea17187edb5d624a6",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "9221e4a35764413eabd5c8ba5882d763",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "8571e5898a48473ea316ad540b2eeaf2",
+                        "value": "Cam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1686",
+        "slug": "giay-dep-nam",
+        "name": "Giày - Dép nam",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 150.000",
+                    "value": "0,150000"
+                },
+                {
+                    "display_value": "Từ 150.000 đến 350.000",
+                    "value": "150000,350000"
+                },
+                {
+                    "display_value": "Từ 350.000 đến 900.000",
+                    "value": "350000,900000"
+                },
+                {
+                    "display_value": "Trên 900.000",
+                    "value": "900000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "9fae9882cab0449caba85a978a02f508",
+                "name": "Họa tiết",
+                "slug": "fashion_pattern",
+                "values": [
+                    {
+                        "id": "ff75c034fc7245d99658ad72ece47f6c",
+                        "value": "Trơn"
+                    },
+                    {
+                        "id": "40f8c14f59564d6993f31fc923bd61e8",
+                        "value": "Hình học"
+                    },
+                    {
+                        "id": "a185661f8bc1491999a20ce98472abef",
+                        "value": "Kẻ sọc"
+                    },
+                    {
+                        "id": "4280cd64df404c23887449ba4aa71165",
+                        "value": "Caro"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "Chấm bi"
+                    },
+                    {
+                        "id": "b2e7f511f5394cce9b9f59019755d4bb",
+                        "value": "Hoa lá"
+                    }
+                ]
+            },
+            {
+                "id": "fb3b15bf366d4c6e9f36053cbbb6aa80",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "164cf8694e6747bca041963ed6c60837",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "9ced28d9a7d244e191f0ecdfcb948ec8",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "9a6179055167478da1db8496edd42723",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "0852971b7c3f42daafeb4e1d4b771fb8",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "d82824c42e95492c8eee9ebd5ee2f898",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "a5073e93ff3d4e8795bc24a10563cb0c",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "c6e24b29dc3749af85563e2079d3e07d",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "d48d03acefee4d7db73164466854bbf4",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "4fb902c0bd084303af89d88e8fab4851",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "79cdc7bfdb08457a8abca6fd8f478e20",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "d18397b7e91d486f8bd0e8578ac8a483",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "0823083238a5491aa4ae96163693beda",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "0e14ffb2989b451ba1da135d349c481b",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "3d800fe0720448949dfec834d2edac0d",
+                        "value": "Tím"
+                    }
+                ]
+            },
+            {
+                "id": "80fbdb0edbc74356a2acf97fb2d786bb",
+                "name": "Kích cỡ",
+                "slug": "option_size_shoes",
+                "values": [
+                    {
+                        "id": "919e5cfa198641629aff80ab8f7c4ced",
+                        "value": "40"
+                    },
+                    {
+                        "id": "0f5e7c3f5db04230b478d7e236ac8d98",
+                        "value": "39"
+                    },
+                    {
+                        "id": "376f1bfb111343feb1a328d706b7efa1",
+                        "value": "41"
+                    },
+                    {
+                        "id": "b20ee7af85254ece8cb2688bb43ad24f",
+                        "value": "42"
+                    },
+                    {
+                        "id": "22d3bdb1dcdb480eae9bc583695e2df5",
+                        "value": "43"
+                    },
+                    {
+                        "id": "dd98778da16c41459b57714c491675c7",
+                        "value": "38"
+                    },
+                    {
+                        "id": "421d63a56316428180dfb3e942e101ad",
+                        "value": "44"
+                    },
+                    {
+                        "id": "bda04e13a6be48b0ad805c2bea412be2",
+                        "value": "37"
+                    },
+                    {
+                        "id": "34160c66991740fc97cb60b77b6d3c83",
+                        "value": "36"
+                    },
+                    {
+                        "id": "b3fa41a2de97409d9cd17eba15e226b3",
+                        "value": "35"
+                    },
+                    {
+                        "id": "38d756124f2a4ed5b46930355ec21fdf",
+                        "value": "45"
+                    },
+                    {
+                        "id": "bd4c931339f94da38b0829325b534f6d",
+                        "value": "34"
+                    },
+                    {
+                        "id": "d543246e261b426282ab93862fe5843b",
+                        "value": "30"
+                    },
+                    {
+                        "id": "295f9b503f0546949bbb15c37845f84f",
+                        "value": "33"
+                    },
+                    {
+                        "id": "85ff83e4c4b64274a5b030c6cd9cc009",
+                        "value": "31"
+                    },
+                    {
+                        "id": "b7304cf3c5974ab9a6049a6aec73e2ae",
+                        "value": "32"
+                    },
+                    {
+                        "id": "c3ee8d2aa7e0434ba76bb9632131579f",
+                        "value": "46"
+                    },
+                    {
+                        "id": "f023ce7b432146c995e676fc300a415e",
+                        "value": "27"
+                    },
+                    {
+                        "id": "969591f0eead4d2689ce460443d9c839",
+                        "value": "29"
+                    },
+                    {
+                        "id": "c5ebe7995d97456fb4ffd1ecb753bbe2",
+                        "value": "47"
+                    },
+                    {
+                        "id": "636d446115b14cce924d2b5452d2dc2e",
+                        "value": "28"
+                    },
+                    {
+                        "id": "a686985ce630490c97bfb0b001c4b05a",
+                        "value": "48"
+                    },
+                    {
+                        "id": "538428b10b274a749ae2351e327ae453",
+                        "value": "49"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "27616",
+        "slug": "tui-thoi-trang-nam",
+        "name": "Túi thời trang nam",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 100.000",
+                    "value": "0,100000"
+                },
+                {
+                    "display_value": "Từ 100.000 đến 300.000",
+                    "value": "100000,300000"
+                },
+                {
+                    "display_value": "Từ 300.000 đến 850.000",
+                    "value": "300000,850000"
+                },
+                {
+                    "display_value": "Trên 850.000",
+                    "value": "850000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "d1912f0cab71478db7c9bc5ec3e4f420",
+                "name": "Chất liệu",
+                "slug": "bag_material",
+                "values": [
+                    {
+                        "id": "b77132ba83ca4aa0a04cdd2b70ee8782",
+                        "value": "Da tự nhiên"
+                    },
+                    {
+                        "id": "ffcad867269d474dac87f640b96bebde",
+                        "value": "Da nhân tạo"
+                    },
+                    {
+                        "id": "5d21f0c3253c408e99df487bc8a6a913",
+                        "value": "Vải sợi polyester"
+                    },
+                    {
+                        "id": "be223a9130d2405d938c9187008408af",
+                        "value": "Vải bố (canvas)"
+                    },
+                    {
+                        "id": "8989bab52d63436dab14c94a189da68d",
+                        "value": "Vải"
+                    },
+                    {
+                        "id": "1db04fdb4f1340c29ffb290e9a918a3c",
+                        "value": "Vải dù"
+                    },
+                    {
+                        "id": "0230185c57924fcc9de04db7eebadd31",
+                        "value": "Vải nỉ"
+                    }
+                ]
+            },
+            {
+                "id": "e829dd4a2e5a4c449a0c10092b599a58",
+                "name": "Loại ví",
+                "slug": "wallet_type",
+                "values": [
+                    {
+                        "id": "b4c2449690b24a0fb7d2fb0f22ab85cf",
+                        "value": "Gập đôi"
+                    },
+                    {
+                        "id": "496927bb210745b68d5c6d16875e470a",
+                        "value": "Ví dài"
+                    },
+                    {
+                        "id": "f93b9fcd8c6a45e19ea5fa86d82192ce",
+                        "value": "Gập 3"
+                    }
+                ]
+            },
+            {
+                "id": "b5230c0f999f44f99c0943d377aab957",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "32d71d63010f4af090ecc69faa200061",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "c6f4a577d031427b91e3afb027989c94",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "c1b7469ba93347348ebf904e38bab460",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "a05c27cee95f4634afe63a3f1b2515e3",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "2c6199e118af4a4aa7b79979ad834729",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "1293ac20402c4eb782c7c6af036af026",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "ca46b4b499144ae2bb24126c7c6b93e4",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "8d1bbb0f7fd8429b839442749255af8c",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "744f27b44f974c5e997c376f6ba78b16",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "2e4f7fe77668497a91659c900b2d8096",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "468523371ba94cac80119f10574a4c87",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "ca8e070b29fe436cb00f21ca7d4c6bdc",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "e9917d109b294b41855356c9bd776216",
+                        "value": "Tím"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6000",
+        "slug": "balo-va-vali",
+        "name": "Balo và Vali",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 100.000",
+                    "value": "0,100000"
+                },
+                {
+                    "display_value": "Từ 100.000 đến 300.000",
+                    "value": "100000,300000"
+                },
+                {
+                    "display_value": "Từ 300.000 đến 800.000",
+                    "value": "300000,800000"
+                },
+                {
+                    "display_value": "Trên 800.000",
+                    "value": "800000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "325f8a7052a1403c9ab527c4ab04c255",
+                "name": "Chất liệu",
+                "slug": "bag_material",
+                "values": [
+                    {
+                        "id": "c171c6cb14b14d0598e917ffc413de4d",
+                        "value": "Vải"
+                    },
+                    {
+                        "id": "2776182286f04c06afc6a240c9828db8",
+                        "value": "Da nhân tạo"
+                    },
+                    {
+                        "id": "b1694600205f4b63bd8d3d6490c74ebf",
+                        "value": "Vải sợi polyester"
+                    },
+                    {
+                        "id": "278557c35a884bcfa0ddf462364d3c22",
+                        "value": "Da tự nhiên"
+                    },
+                    {
+                        "id": "461326e153e74ad6974bdaf447eab423",
+                        "value": "Vải bố (canvas)"
+                    },
+                    {
+                        "id": "e53f4a9ac8a847e08eb3bb3415d35790",
+                        "value": "Vải dù"
+                    },
+                    {
+                        "id": "50aa6940bc7a44d389a3d916ac199ccc",
+                        "value": "Vải nỉ"
+                    }
+                ]
+            },
+            {
+                "id": "ecc6e642980440d29914a4345455dc88",
+                "name": "Họa tiết",
+                "slug": "fashion_pattern",
+                "values": [
+                    {
+                        "id": "2444ce0e345649a0a58f29597d4775e8",
+                        "value": "Trơn"
+                    },
+                    {
+                        "id": "254b46e7f87e4a41aeb92628461b09ff",
+                        "value": "Hình học"
+                    },
+                    {
+                        "id": "c178b5b5f1e747de99125c77e11e5bf4",
+                        "value": "Kẻ sọc"
+                    },
+                    {
+                        "id": "8b003e49cfea432e8d22dab130d6ec93",
+                        "value": "Hoa lá"
+                    },
+                    {
+                        "id": "cd085868915a47a3998103c1853fa38c",
+                        "value": "Caro"
+                    },
+                    {
+                        "id": "3232a45905404ce59ceb16f62ed7a1eb",
+                        "value": "Chấm bi"
+                    }
+                ]
+            },
+            {
+                "id": "5c9632dc2d2e4d5db7a423a9057245bf",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "eb1bda8dc5994f878242547fd6a2a898",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "c90b9efe375c4671abfdd75b8b934dac",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "7a10e9fe09f049babd88f674631ed654",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "037206fa2b45475abfa24947a465158a",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "799565348d684f1383b16eaeffa5828e",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "f41f86a7a15c4731a7559e6c60cde747",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "931599cc2d7a416b85f6d5ba2b70cf6d",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "08e77f72b6cb41f1bf46069aa844d57f",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "cdcd6e8217964aafb47747b29833f8f1",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "d59439eb385745a38452b55733d0800e",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "30a9e0ac5546405ab54c5ef0dea81dd5",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "5ee96f0d64b842259f2b58135218ea7e",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "40fb078ab9574fe2a830fcbfcd58faf9",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "091436facd4340a182d09a557d050e64",
+                        "value": "Cam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "27498",
+        "slug": "phu-kien-thoi-trang",
+        "name": "Phụ kiện thời trang",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 100.000",
+                    "value": "0,100000"
+                },
+                {
+                    "display_value": "Từ 100.000 đến 360.000",
+                    "value": "100000,360000"
+                },
+                {
+                    "display_value": "Trên 360.000",
+                    "value": "360000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "64faf8adaace42349b294c13a54493e3",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "8aafc444510a4c888037318fe6daca39",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "cf325947a8d7478295b68031e106915b",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "832993e6030e4a1cab2e2bed0f85192f",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "c36a58126167445e99ce63ba54f90c07",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "99327904a075441c8240929b2f983374",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "c32c5078cc394e6fb400463ca2125cc0",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "fdb75494fb35410f94ffdbcab3a684bb",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "f099e1a88249418485824d2e711cae48",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "765a5a6a95de48b580ff496eb30dd552",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "eb8ab8fc100f40f0989d1960be8a1880",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "7e0e4de49d344fde80ac96639e3ef496",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "8f508d8df7d34680be448c25bc9a4cf1",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "a07e6e8536964a979fff2af96ef21a63",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "b22dc92d7b2f4bdba55ea440e79d30eb",
+                        "value": "Cam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8371",
+        "slug": "dong-ho-va-trang-suc",
+        "name": "Đồng hồ và Trang sức",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 600.000",
+                    "value": "0,600000"
+                },
+                {
+                    "display_value": "Từ 600.000 đến 1.300.000",
+                    "value": "600000,1300000"
+                },
+                {
+                    "display_value": "Trên 1.300.000",
+                    "value": "1300000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "43401515958747bbb88328b150c86591",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "ae4588c96c664a4f9f25bf251563f3b6",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "2bc5d9bbc3de4086b08107075801ba69",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "34tvQHXB7UayPdQkJh13ctW5xcPeLvm9YM",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "63da9e92953c49a381cbd2a897568965",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "0d2d68881a784494ae27c5738a10b89c",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "6dcfeafbd1cd4bf08b1f753e0cf8f885",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "91e1f83f44f547e7a2fa3da639f24665",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "dcbe873608e543e6b0a8007ba22ce1bb",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "06a9ede45e3a46279c15f093062af9cf",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "6fcfa0c45969471f88620dfd717ae567",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "6926a56fbf9f4c6e89c3041fe5fb8852",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "0ad2de33777843d095f7b4d0ab9e228b",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "615aa25eded64739b3f31de71926f1e0",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "11856028d5a443f7b375402c3a02326e",
+                        "value": "Cam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1846",
+        "slug": "laptop-may-vi-tinh-linh-kien",
+        "name": "Laptop - Máy Vi Tính - Linh kiện",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 400.000",
+                    "value": "0,400000"
+                },
+                {
+                    "display_value": "Từ 400.000 đến 3.000.000",
+                    "value": "400000,3000000"
+                },
+                {
+                    "display_value": "Trên 3.000.000",
+                    "value": "3000000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "553db4840d6b475992f8c58d78cc82c4",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "e7f29d6e167b434881c5da33862e68f4",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "dc47f7a5c6074fe3840d34faa3da9a16",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "84151e1aaa264915882d12b9d3f9df0f",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "3fd3bc7cccb14366ba429b6bac893c50",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "f3a19b1532ee4c93a059124f9d04587a",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "385cb7cb974e43c9b75975b0ae79d1be",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "d6638d73475b47228c1ec5c1e00f9373",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "13559fa6edd04600b5af7ef7b5e5cf5a",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "e70ca439b8af470f8b2a2264179c5b87",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "caa1607a419f41749213d0941ba8e0f4",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "19d5953f8abb45f6a574df46031351a6",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "d3aa5f26ff644ce5aa41050991ff278e",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "f195c6856a2045bf876f3f29ef602738",
+                        "value": "Hồng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8594",
+        "slug": "o-to-xe-may-xe-dap",
+        "name": "Ô Tô - Xe Máy - Xe Đạp",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 300.000",
+                    "value": "0,300000"
+                },
+                {
+                    "display_value": "Từ 300.000 đến 1.200.000",
+                    "value": "300000,1200000"
+                },
+                {
+                    "display_value": "Trên 1.200.000",
+                    "value": "1200000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "6246ee2a16db417e8305b263c4115548",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "312b0c5b4ba14e0caa84820cbcb321cb",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "2401940a34f1470bacc0d24ec2c0f0b8",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "8f385ad3391e43cbbbd448804bccb534",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "30d13190f62a42b8b72918cf6dc21171",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "ab977b83ec9d494a9d9dd62aa5ca90ce",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "94655da6f44747668a872081d1e09cf4",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "ed23004d62d946a79bfca8d13b6d0e57",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "2b03a49ff2144082b98a470d48c5eff8",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "e8af2c444fb24de09353fa8abb24a1ea",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "f74ee977307e42bbbdd61c4bd44ef322",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "391cbb611637415f9e854e02d183b2d0",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "63c3a89ff17c439eb575ece24ce02bca",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "d0dbd8bd6a084895b809abf39e32c405",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "a6524f35b92e4ecb9ea93a23790d2dbb",
+                        "value": "Tím"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8322",
+        "slug": "nha-sach-tiki",
+        "name": "Nhà Sách Tiki",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 40.000",
+                    "value": "0,40000"
+                },
+                {
+                    "display_value": "Từ 40.000 đến 120.000",
+                    "value": "40000,120000"
+                },
+                {
+                    "display_value": "Từ 120.000 đến 280.000",
+                    "value": "120000,280000"
+                },
+                {
+                    "display_value": "Trên 280.000",
+                    "value": "280000,10000000000"
+                }
+            ]
+        },
+        "properties": []
+    },
+    {
+        "id": "1975",
+        "slug": "the-thao-da-ngoai",
+        "name": "Thể Thao - Dã Ngoại",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 250.000",
+                    "value": "0,250000"
+                },
+                {
+                    "display_value": "Từ 250.000 đến 750.000",
+                    "value": "250000,750000"
+                },
+                {
+                    "display_value": "Trên 750.000",
+                    "value": "750000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "c346c2fa15b84ce48bdee72625161cba",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "e78d4157aacd4073810c38e2e629a633",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "f951e0370a9b484398a72700832c2b5e",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "cd3ac09511d5425997644f1561474f4b",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "5b381f16dbbf46298f089d2b4463d64b",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "ada758a9c5db42a381905cafb6e76680",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "a9a03daa00874af1ba8f493242dcdc46",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "d2aa675a24bc4db3a20b8b669400082b",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "a53a6302ddbe4fbaad5c4041ac20628f",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "6363556c4e314c139ab17b42c2418be6",
+                        "value": "Bạc"
+                    },
+                    {
+                        "id": "f0d573ac513641908236034baf42dbaa",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "7ae41968f5f9496fbe60195bd32b64e9",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "cb5e38728e4242e4ac2e7a2443749b85",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "4014f304f12e45f6a4efe1768c09fe48",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "625fc0443f594a2e8584caa91a271e7b",
+                        "value": "Kem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1801",
+        "slug": "may-anh",
+        "name": "Máy Ảnh - Máy Quay Phim",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 800.000",
+                    "value": "0,800000"
+                },
+                {
+                    "display_value": "Từ 800.000 đến 3.800.000",
+                    "value": "800000,3800000"
+                },
+                {
+                    "display_value": "Trên 3.800.000",
+                    "value": "3800000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "f330fa46dfc846708e0d1567ab82ff6b",
+                "name": "Độ phân giải",
+                "slug": "resolution",
+                "values": [
+                    {
+                        "id": "e2b65e185eb943aab07d6d27a7311c30",
+                        "value": "1080 x 2160 pixels"
+                    },
+                    {
+                        "id": "3cff898cea524924a6a4f1e0a9939fea",
+                        "value": "1920 x 1080 pixels"
+                    },
+                    {
+                        "id": "d93b10bd489e4e6dbfea77162a2f1be5",
+                        "value": "Full HD (1920 x 1080)"
+                    },
+                    {
+                        "id": "f62b8961f4244c5fac3c241964a429bb",
+                        "value": "2560 x 1440 pixels"
+                    },
+                    {
+                        "id": "0fb9d4e8374e430c98136bd8ef5d3542",
+                        "value": "1280 x 1440 pixels"
+                    },
+                    {
+                        "id": "3ed1124f5fe04b3aafff293448d51f52",
+                        "value": "1080 x 2232 pixel"
+                    },
+                    {
+                        "id": "e171d1f92ecc409bb8ec45f72eadcf1a",
+                        "value": "1080 x 2312 pixels"
+                    },
+                    {
+                        "id": "77c964902d134e70b824262ac8bbe4c1",
+                        "value": "2048 x 1536 pixels"
+                    },
+                    {
+                        "id": "eeff85ec9ff749a284099be81a858c2d",
+                        "value": "854 x 480 pixels"
+                    },
+                    {
+                        "id": "067e7cc686d34ab2881094a6203cd619",
+                        "value": "Full HD (1080 x 1620 pixels)"
+                    },
+                    {
+                        "id": "faf82eb3563b4a10b3fe036e19c70019",
+                        "value": "10.2 inch"
+                    },
+                    {
+                        "id": "05dbe24bcf9041c8ae7bf8c200de8827",
+                        "value": "1024 x 800 pixels"
+                    },
+                    {
+                        "id": "34tvQHXB7UayPdQkJh13ctW5xcPeLvm9YM",
+                        "value": "1080 x 2408 (FHD+)"
+                    },
+                    {
+                        "id": "088c8986362d4b1196308ab327fc5962",
+                        "value": "2304 x 1440 pixels"
+                    },
+                    {
+                        "id": "b05617a3fc444367b95661f03ba5065b",
+                        "value": "2K (1440 x 2880 Pixels)"
+                    },
+                    {
+                        "id": "70a1e253f29146e3a5b91b0561aad1e6",
+                        "value": "3840 x 2160 pixels"
+                    },
+                    {
+                        "id": "d9199fe56ef64ce980cae6b5daabd8f8",
+                        "value": "4K (3940 x 2160)"
+                    },
+                    {
+                        "id": "63f3b2c51648422e9abe33f7ffc4c0ac",
+                        "value": "640 x 480 pixels"
+                    },
+                    {
+                        "id": "d5154cd390f5473088a364e81a9a2b4f",
+                        "value": "720 x 1080 pixels"
+                    },
+                    {
+                        "id": "b7b837e4a33240d9b4feebddc3c71ee6",
+                        "value": "QHD (2160 x 1440)"
+                    },
+                    {
+                        "id": "b8de15ec3bc04240ad5500591a86e01a",
+                        "value": "WQHD IPS 2560 x 1440"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "915",
+        "slug": "thoi-trang-nam",
+        "name": "Thời trang nam",
+        "rangePrice": {
+            "min": 0,
+            "max": 10000000000,
+            "slug": "price",
+            "values": [
+                {
+                    "display_value": "Dưới 80.000",
+                    "value": "0,80000"
+                },
+                {
+                    "display_value": "Từ 80.000 đến 180.000",
+                    "value": "80000,180000"
+                },
+                {
+                    "display_value": "Từ 180.000 đến 440.000",
+                    "value": "180000,440000"
+                },
+                {
+                    "display_value": "Trên 440.000",
+                    "value": "440000,10000000000"
+                }
+            ]
+        },
+        "properties": [
+            {
+                "id": "6eae655cc03c4f3da01345600715b4c1",
+                "name": "Chất liệu",
+                "slug": "cloth_material",
+                "values": [
+                    {
+                        "id": "a48ad46446704add8598c9350a21a5db",
+                        "value": "Cotton"
+                    },
+                    {
+                        "id": "1f7d223b6ecf4ac4be03ac123dd24574",
+                        "value": "Polyester (PE)"
+                    },
+                    {
+                        "id": "1PgjVML79GYGHbGHPbCgWAK4xNj5FPb4Hw",
+                        "value": "Lụa"
+                    },
+                    {
+                        "id": "597a9461115044b5b153935a84dbff20",
+                        "value": "Jeans"
+                    },
+                    {
+                        "id": "6819c2954651478d89da891f775e526a",
+                        "value": "Nỉ"
+                    },
+                    {
+                        "id": "6d3757aff8484688a21ae17b95826d5f",
+                        "value": "Kaki"
+                    },
+                    {
+                        "id": "9b82e67eef1b43d885ac8e9b9655fe03",
+                        "value": "Spandex"
+                    },
+                    {
+                        "id": "126a102d8c9c45938705ffcf7fe06ee0",
+                        "value": "Bamboo"
+                    },
+                    {
+                        "id": "67dbef6fc1154d6889f951da7fe86cf9",
+                        "value": "Kate"
+                    },
+                    {
+                        "id": "c4ed45ffa8bb47f898ccaedc348a1fa0",
+                        "value": "Len"
+                    },
+                    {
+                        "id": "6cb0fc6b26964922b48992cefd511523",
+                        "value": "Model"
+                    },
+                    {
+                        "id": "d4a8f294744e459eb118fe8f58a280ee",
+                        "value": "Thô"
+                    },
+                    {
+                        "id": "83aa35506b1a436c9edd15cc4ae2d1ed",
+                        "value": "Lanh"
+                    },
+                    {
+                        "id": "6d0f19d57b8342749f3b908b53f708be",
+                        "value": "Đũi"
+                    },
+                    {
+                        "id": "a80313f4391444c29ea6dc6958166768",
+                        "value": "Canvas"
+                    },
+                    {
+                        "id": "73ac6615803a479fb6fc5c634cf7ab5d",
+                        "value": "Jacquard"
+                    },
+                    {
+                        "id": "61b1c7accd6849959afebcb3a7e1ab7a",
+                        "value": "Viscose"
+                    },
+                    {
+                        "id": "f4eb82a4e97e46e4917ba9a07982f211",
+                        "value": "Tuyết mưa"
+                    },
+                    {
+                        "id": "ba0aaef8f1784105af89a996c83f6b10",
+                        "value": "Lynon"
+                    },
+                    {
+                        "id": "957a6305754046a290e0dbb41e933926",
+                        "value": "Tencel"
+                    },
+                    {
+                        "id": "ddae8f12266c48ed82a183e1c38dbe81",
+                        "value": "Voan"
+                    },
+                    {
+                        "id": "2ea559caaeec4b66a506e51eb49741e3",
+                        "value": "Ren"
+                    }
+                ]
+            },
+            {
+                "id": "ad046433b7154458b60d745c596e7ec6",
+                "name": "Họa tiết",
+                "slug": "fashion_pattern",
+                "values": [
+                    {
+                        "id": "d86ae85762424ffa90b3690b13059fa9",
+                        "value": "Trơn"
+                    },
+                    {
+                        "id": "1fc39dfbc0704dfcb6b6148728b76c1b",
+                        "value": "Hình học"
+                    },
+                    {
+                        "id": "76863436bbf34f23875ee50419135dca",
+                        "value": "Kẻ sọc"
+                    },
+                    {
+                        "id": "be9b19aa29824cec9852d58fd3e4c929",
+                        "value": "Hoa lá"
+                    },
+                    {
+                        "id": "be0c0aed48964c1fa672df6b181ae3a1",
+                        "value": "Caro"
+                    },
+                    {
+                        "id": "e07eaf4499fa4960b21e8a3ede69041c",
+                        "value": "Chấm bi"
+                    }
+                ]
+            },
+            {
+                "id": "e7ddbe9f83c840a98ed362fa373bb15d",
+                "name": "Kiểu dáng",
+                "slug": "shirt_style",
+                "values": [
+                    {
+                        "id": "a65bd4aa4db241ccb7664005d5358527",
+                        "value": "Regular fit"
+                    },
+                    {
+                        "id": "97c5e091e6f641dd9347407f4b7d9a7b",
+                        "value": "Slim fit"
+                    },
+                    {
+                        "id": "6818899c74bd49ddbd36a58e83dd0672",
+                        "value": "Ngoại cỡ"
+                    }
+                ]
+            },
+            {
+                "id": "a7840750dcdd453fbd0b3c3a5a891190",
+                "name": "Màu sắc",
+                "slug": "option_color",
+                "values": [
+                    {
+                        "id": "34tvQHXB7UayPdQkJh13ctW5xcPeLvm9YM",
+                        "value": "Đen"
+                    },
+                    {
+                        "id": "98c35d392a244584b5e65c5b599f0430",
+                        "value": "Trắng"
+                    },
+                    {
+                        "id": "2fa27987c5ca4c009532d40e7018574d",
+                        "value": "Xanh"
+                    },
+                    {
+                        "id": "37e5c68cbd5f4b8bbdc4a04f2ba57d11",
+                        "value": "Xám"
+                    },
+                    {
+                        "id": "4362924afb00444bb7f1eb677a5eecf1",
+                        "value": "Xanh dương"
+                    },
+                    {
+                        "id": "92c15fff32594d07a6738615b01d52e5",
+                        "value": "Vàng"
+                    },
+                    {
+                        "id": "ad0c473c402f4edf87cac5625f369f8f",
+                        "value": "Đỏ"
+                    },
+                    {
+                        "id": "ea90df320468421b9d9a94b114b1626f",
+                        "value": "Hồng"
+                    },
+                    {
+                        "id": "9f3d2bb38b5e46eaa0173c09d1fce19e",
+                        "value": "Xanh lá"
+                    },
+                    {
+                        "id": "8cd407d72e324ecd81e77f2546f05ecb",
+                        "value": "Kem"
+                    },
+                    {
+                        "id": "22573dbb1549492999daf7c39e5ff714",
+                        "value": "Tím"
+                    },
+                    {
+                        "id": "4abd973c254840c2aa5d4580c189334d",
+                        "value": "Nâu"
+                    },
+                    {
+                        "id": "ed7052de963446f8a99535432166062b",
+                        "value": "Cam"
+                    },
+                    {
+                        "id": "08be04ba45d040899014238a13a71849",
+                        "value": "Bạc"
+                    }
+                ]
+            },
+            {
+                "id": "6b0eb97a32ed4711bec70658d655a126",
+                "name": "Kích cỡ",
+                "slug": "option_size_clothes",
+                "values": [
+                    {
+                        "id": "5551c3df21ea457b989ae4a687fa8b06",
+                        "value": "L"
+                    },
+                    {
+                        "id": "c8c533a5aa574bb29725b299486062d7",
+                        "value": "M"
+                    },
+                    {
+                        "id": "e9ab0e9ca2d049e6958ebd9cde63c616",
+                        "value": "XL"
+                    },
+                    {
+                        "id": "bf664f0db37c4f19b453f3f68e71e255",
+                        "value": "XXL"
+                    },
+                    {
+                        "id": "b4f0a2ba896c47ea8f1d38e15daef11a",
+                        "value": "S"
+                    },
+                    {
+                        "id": "d57396a9c1b7495fbcda3f6cbb2c2d21",
+                        "value": "3XL"
+                    },
+                    {
+                        "id": "2238652bbda7475c9adf3f5fa787d92a",
+                        "value": "XS"
+                    },
+                    {
+                        "id": "ac026b5dff2349af85e57e077580cf44",
+                        "value": "4XL"
+                    },
+                    {
+                        "id": "45287154756a45638326735e4f2eee47",
+                        "value": "Freesize"
+                    },
+                    {
+                        "id": "f0919fb13c01441885edb8299c2cc1d1",
+                        "value": "5XL"
+                    },
+                    {
+                        "id": "5c13bd90f815482cb7b3f82a417b40fa",
+                        "value": "XXS"
+                    },
+                    {
+                        "id": "2f038fb5859b42b7985959a9c352f974",
+                        "value": "6XL"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "userId": "92a67bbf-b53e-403c-a973-aa52cc2e0860",
+        "productId": "20ed89a57a62465180d0bd3f5f6262b5",
+        "productImg": "https://salt.tikicdn.com/ts/product/90/35/a9/cf19bd44a28896ef9b22f2029fd07c1e.jpg",
+        "productName": "Thảm taplo nhung lông cừu cho xe Hyundai i10 2007 - 2012 - 3 Lớp",
+        "productPrice": 199000,
+        "productDiscount": 0,
+        "productRate": 0,
+        "productSold": 0,
+        "productSlug": "tham-taplo-nhung-long-cuu-cho-xe-hyundai-i10-2007-2012-3-lop-p26278521",
+        "createdAt": 1660631143760,
+        "updatedAt": 1660631143760,
+        "id": "bea82fcc-90df-4c4f-b009-48412f9ed14e"
+    },
+    {
+        "userId": "92a67bbf-b53e-403c-a973-aa52cc2e0860",
+        "productId": "66f2e99c3257474da610e9645abe2f85",
+        "productImg": "https://salt.tikicdn.com/ts/product/b1/58/2c/df85db63049453d2f3523da00609e492.jpg",
+        "productName": "Đón gót giày thép bóng không gỉ treo chìa khóa (XDGG07)",
+        "productPrice": 30000,
+        "productDiscount": 57,
+        "productRate": 4.8,
+        "productSold": 112,
+        "productSlug": "don-got-giay-thep-bong-khong-gi-treo-chia-khoa-xdgg07-p168800081",
+        "createdAt": 1660631147843,
+        "updatedAt": 1660631147843,
+        "id": "6e25a846-e4ee-484d-bf5c-2e984bf16993"
+    }
+]
