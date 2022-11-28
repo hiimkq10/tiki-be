@@ -1,5 +1,5 @@
 const admin = require('firebase-admin');
-const serviceAccountKey = './firebase/eslab-69708.json';
+const serviceAccountKey = './eslab-69708.json';
 
 const bucketName = 'eslab-69708.appspot.com'
 const srcFilename = 'db.json'

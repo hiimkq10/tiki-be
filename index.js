@@ -1,5 +1,5 @@
 
-const { uploadFile, downloadFile } = require('./firebase/firebase-helper')
+const { uploadFile, downloadFile } = require('./firebase-helper')
 const jsonServer = require('json-server');
 const faker = require('faker')
 const queryString = require('query-string');
